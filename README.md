@@ -1,2 +1,2 @@
 # codeforces
-Problems that I solved on codeforces' contests
+Problems I've solved on Codeforces.com contests
